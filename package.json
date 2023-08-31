@@ -1,0 +1,14 @@
+{
+  "name": "swisstronik-challenge-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abdrés Grande",
+  "license": "ISC",
+  "devDependencies": {
+    "hardhat": "^2.17.2"
+  }
+}
